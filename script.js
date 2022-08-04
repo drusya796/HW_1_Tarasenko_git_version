@@ -24,3 +24,5 @@
 let exp = (x+y) ** 3;
 console.log(exp);
 alert(exp);
+
+console.log('New feature')
